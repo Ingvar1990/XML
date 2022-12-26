@@ -1,1 +1,11 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+   <reports>
+       <id>1</id>
+       <title>bug1</title>
+       <precondition>ios</precondition>
+       <steps>7</steps>
+       <er>good</er>
+       <link>ok</link>
+    </reports>
+</root>    
